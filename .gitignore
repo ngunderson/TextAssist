@@ -1,4 +1,10 @@
+# Runtime data
+env.js
+
+# Dependency directory
 node_modules/
+
+#vscode settings
 typings/
 .vscode/
-env.js
+
